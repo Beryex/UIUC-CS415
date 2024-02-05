@@ -2,6 +2,7 @@
 [Bryan Wang](https://github.com/Beryex) |  CS 415: Game Development, Fall 2023  
 Instructor:   
 [Eric Gene Shaffer](https://cs.illinois.edu/about/people/faculty/shaffer1) @ University of Illinois Urbana-Champaign Institute  
+
 This work is protected under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).  
 **Copyright (c) 2023 Bryan Wang, Eric Gene Shaffer**
 
